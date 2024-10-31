@@ -1,3 +1,3 @@
-# asp.net-docs
+# asp.net core personal notes and docs
 
-repository just contains qucik reference docs for asp.net core framework
+### This Repository just contains quick reference docs for asp.net core framework
